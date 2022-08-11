@@ -1,6 +1,4 @@
 ﻿
-//Console.WriteLine("Введите число: ");
-//int a = Console.Read();
 int a = 9;
 
 if(a % 2 == 0)
